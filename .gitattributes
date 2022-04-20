@@ -1,0 +1,2 @@
+./real_data_train/models/event_data_train.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
